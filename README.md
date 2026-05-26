@@ -1,0 +1,1 @@
+A simple Python-based console voting system that allows a predefined set of voters to cast votes for one of eight candidates. The system tracks votes, prevents double voting, and finally announces the winner or a tie.
